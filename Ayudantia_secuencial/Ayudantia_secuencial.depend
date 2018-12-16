@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544920455 source:c:\users\michel\desktop\ayudantia_secuencial\funciones.cpp
+	"Funciones.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
+1544918135 source:c:\users\michel\desktop\ayudantia_secuencial\main.cpp
+	"Funciones.h"
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+
+1544818502 c:\users\michel\desktop\ayudantia_secuencial\funciones.h
+
